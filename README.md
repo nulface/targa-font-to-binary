@@ -3,3 +3,5 @@ converts a targa containing a font into a 64 bit binary numbers which encodes th
 
 
 
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
