@@ -1,6 +1,8 @@
 # targa-font-to-binary
 converts a targa containing a font into a 64 bit binary numbers which encodes the chatacter
 
+each character is in an 8x8 pixel cell in the order of ascii characters
+
 ![Alt Text](https://raw.githubusercontent.com/nulface/targa-font-to-binary/main/png%20font.png)
 
 
