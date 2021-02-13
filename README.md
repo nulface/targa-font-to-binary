@@ -16,7 +16,7 @@ in this case it was the letter H
 
 ![Alt Text](https://raw.githubusercontent.com/nulface/targa-font-to-binary/main/letter%20h.png)
 
- 1  1   
+> 1  1   
  1  1   
  1  1   
  1111   
