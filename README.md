@@ -30,8 +30,6 @@ _#__#___
 
 references:
 
-followed tutorials from: 
-
 https://www.cplusplus.com/doc/tutorial/files/
 
 Thanks!
