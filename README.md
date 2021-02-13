@@ -26,5 +26,10 @@ in this case it was the letter H
 
 
 references:
-followed tutorials from: https://www.cplusplus.com/doc/tutorial/files/
-Thanks
+
+followed tutorials from: 
+
+https://www.cplusplus.com/doc/tutorial/files/
+
+Thanks!
+
