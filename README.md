@@ -17,9 +17,13 @@ in this case it was the letter H
 ![Alt Text](https://raw.githubusercontent.com/nulface/targa-font-to-binary/main/letter%20h.png)
 
 20345674416015432
+
 in binary is:
+
 1001000010010000100100001111000010010000100100001001000
+
 add new lines and you get
+
 ```
 01001000
 01001000
